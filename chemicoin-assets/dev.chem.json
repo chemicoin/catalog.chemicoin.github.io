@@ -1,1 +1,17 @@
-{}
+{
+  "asset_ids": [
+    "AHU4MgbyUhigsyt4Z26LzW491ATKrwzp8K"
+  ],
+  "contract_url": "https://chemicoin.github.io/chemicoin-assets/dev.chem.json",
+  "name_short": "dev.chem",
+  "name": "devel@chemicoin",
+  "issuer": "chemicoin.github.io",
+  "description": "http://chemicoin.github.io/chemicoin-assets/dev.chem.json",
+  "description_mime": "text/x-markdown; charset=UTF-8",
+  "type": "Currency",
+  "divisibility": 0,
+  "link_to_website": true,
+  "icon_url": "https://coinprism.blob.core.windows.net/profile/icon/AHU4MgbyUhigsyt4Z26LzW491ATKrwzp8K.jpg",
+  "image_url": "https://coinprism.blob.core.windows.net/profile/image/AHU4MgbyUhigsyt4Z26LzW491ATKrwzp8K.jpg",
+  "version": "1.0"
+}
